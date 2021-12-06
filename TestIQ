@@ -1,0 +1,10 @@
+var = input('You like BTS? y/n\n')
+num = 99999999999999**9999999999999999**99999999999999
+if var=='y':
+    print('Congratulations!! Youre IQ 0!')
+elif var=='n':
+    print('Congratulations!! Youre IQ 10!')
+elif var=='I jerk off with my right hand':
+    print('Congratulations!! Youre IQ 100!')
+elif var=='ГЫЧА':
+    print('Congratulations!! Youre IQ '+'9'*num+'!')
